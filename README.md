@@ -2,16 +2,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-on-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/logo-on-light.svg">
-    <img src="assets/logo-on-light.svg" alt="YouViCo" width="206" height="44">
+    <img src="assets/logo-on-light.svg" alt="YouViCo Desktop" width="384">
   </picture>
 </p>
 
-<h1 align="center">YouViCo Desktop</h1>
-
 <p align="center">
-  <strong>상상하던 것을 AI로 만들고, 함께 완성하세요.</strong><br>
-  프로젝트를 만들고 아이디어를 구체화하세요.<br>
-  기획부터 AI 영상·이미지 생성, 편집과 협업까지 한곳에서 경험하세요.
+  <strong>기획부터 AI 영상·이미지 생성, 편집과 협업까지<br>
+  상상을 함께 완성하는 하나의 창작 공간.</strong>
 </p>
 
 <p align="center">
