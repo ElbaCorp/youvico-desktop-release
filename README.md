@@ -99,9 +99,11 @@ Mac의 칩 종류는 Apple 메뉴 → **이 Mac에 관하여**에서 확인할 �
 **Linux**에서는 [최신 릴리스](https://github.com/ElbaCorp/youvico-desktop-release/releases/latest)의 설치 파일로 업데이트하세요.
 
 <details>
-<summary>0.1.18 이하 버전을 사용하고 있나요?</summary>
+<summary>0.1.17 또는 0.1.18을 사용하고 있나요?</summary>
 
-배포 저장소가 변경되어 최신 버전을 한 번 직접 설치해야 합니다. 위 다운로드 링크에서 `0.1.19` 이상을 설치하면 Windows와 macOS는 새 배포 저장소에서 업데이트를 확인합니다.
+Windows와 macOS에서는 앱 메뉴의 **업데이트 확인**을 누른 뒤 **다운로드**를 선택하세요. 준비가 끝나면 작업을 저장하고 **재시작하여 설치**를 눌러 `0.1.20`으로 업데이트할 수 있습니다. 이후 버전도 앱에서 계속 업데이트할 수 있습니다.
+
+앱 내 업데이트가 진행되지 않거나 더 오래된 버전을 사용하고 있다면 [최신 설치 파일](https://github.com/ElbaCorp/youvico-desktop-release/releases/latest)을 내려받아 직접 설치하세요.
 
 </details>
 
