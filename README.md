@@ -14,6 +14,8 @@
   <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest"><strong>최신 버전 다운로드 ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="https://app.youvico.com">웹에서 시작하기</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases">Release Note</a>
 </p>
 
 <p align="center">
