@@ -15,11 +15,11 @@
 <div align="right">
   <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest"><img align="left" src="assets/nav-download-ja.svg" alt="最新版をダウンロード ↗" width="179" height="24"></a>
   <a href="https://app.youvico.com"><img align="left" src="assets/nav-web-ja.svg" alt="Webで始める" width="91" height="24"></a>
-  <a href="README.md">한국어</a>
+  <a href="README.md"><img src="assets/nav-language-ko.svg" alt="한국어" width="42" height="24"></a>
   &nbsp; · &nbsp;
-  <a href="README.en.md">English</a>
+  <a href="README.en.md"><img src="assets/nav-language-en.svg" alt="English" width="48" height="24"></a>
   &nbsp; · &nbsp;
-  <a href="README.ja.md"><strong>日本語</strong></a>
+  <a href="README.ja.md"><img src="assets/nav-language-ja-active.svg" alt="日本語" width="42" height="24"></a>
 </div>
 
 <br clear="all">
