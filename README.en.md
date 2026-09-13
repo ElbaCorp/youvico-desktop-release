@@ -13,8 +13,8 @@
 </div>
 
 <div align="right">
-  <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest"><img align="left" src="assets/nav-download-en.svg" alt="Download the latest version ↗" width="224" height="24"></a>
-  <a href="https://app.youvico.com"><img align="left" src="assets/nav-web-en.svg" alt="Start on the web" width="129" height="24"></a>
+  <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest"><img align="left" src="assets/nav-download-en.svg" alt="Download the latest version ↗" width="208" height="24"></a>
+  <a href="https://app.youvico.com"><img align="left" src="assets/nav-web-en.svg" alt="Start on the web" width="113" height="24"></a>
   <a href="README.md">한국어</a>
   &nbsp; · &nbsp;
   <a href="README.en.md"><strong>English</strong></a>
