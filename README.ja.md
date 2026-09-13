@@ -27,7 +27,7 @@
 <table width="100%">
   <tr>
     <th width="9999" align="left">OS</th>
-    <th>ダウンロード</th>
+    <th width="160" nowrap>ダウンロード</th>
   </tr>
   <tr>
     <td>Windows · Intel / AMD · x64</td>
