@@ -14,22 +14,15 @@
   <img src="assets/update-hero.png" alt="Brand illustration of media review, drawing, and feedback in YouViCo" width="880">
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="100%" align="left">
-      <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest"><strong>Download the latest version ↗</strong></a>
-      &nbsp; · &nbsp;
-      <a href="https://app.youvico.com">Start on the web</a>
-    </td>
-    <td align="right">
-      <a href="README.md">한국어</a>
-      &nbsp; · &nbsp;
-      <a href="README.en.md"><strong>English</strong></a>
-      &nbsp; · &nbsp;
-      <a href="README.ja.md">日本語</a>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest"><img align="left" src="assets/nav-download-en.svg" alt="Download the latest version ↗" width="224" height="24"></a>
+  <a href="https://app.youvico.com"><img align="left" src="assets/nav-web-en.svg" alt="Start on the web" width="129" height="24"></a>
+  <a href="README.md">한국어</a>
+  &nbsp; · &nbsp;
+  <a href="README.en.md"><strong>English</strong></a>
+  &nbsp; · &nbsp;
+  <a href="README.ja.md">日本語</a>
+</p>
 
 <table align="center">
   <tr>
