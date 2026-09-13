@@ -26,6 +26,10 @@
   <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases">Release Note</a>
 </p>
 
+<p align="center">
+  <img src="assets/update-hero.png" alt="YouViCo의 미디어 리뷰와 드로잉, 피드백을 표현한 브랜드 이미지" width="880">
+</p>
+
 <table align="center">
   <tr>
     <th>운영체제</th>
@@ -52,7 +56,3 @@
     <td><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.rpm">.rpm</a></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="assets/update-hero.png" alt="YouViCo의 미디어 리뷰와 드로잉, 피드백을 표현한 브랜드 이미지" width="880">
-</p>
