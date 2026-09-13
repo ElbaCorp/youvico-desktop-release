@@ -24,9 +24,9 @@
 
 <br clear="all">
 
-<table align="center">
+<table width="100%">
   <tr>
-    <th>운영체제</th>
+    <th width="9999" align="left">운영체제</th>
     <th>다운로드</th>
   </tr>
   <tr>
@@ -50,7 +50,3 @@
     <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.rpm" title="다운로드">⬇</a></td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases">Release Note</a>
-</p>
