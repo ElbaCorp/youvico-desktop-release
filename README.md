@@ -1,12 +1,4 @@
 <p align="center">
-  <a href="README.md"><strong>한국어</strong></a>
-  &nbsp; · &nbsp;
-  <a href="README.en.md">English</a>
-  &nbsp; · &nbsp;
-  <a href="README.ja.md">日本語</a>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-on-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/logo-on-light.svg">
@@ -15,7 +7,19 @@
 </p>
 
 <p align="center">
+  <a href="README.md"><strong>한국어</strong></a>
+  &nbsp; · &nbsp;
+  <a href="README.en.md">English</a>
+  &nbsp; · &nbsp;
+  <a href="README.ja.md">日本語</a>
+</p>
+
+<p align="center">
   <strong>기획부터 창작까지 AI로 간결하게, 완성은 협업으로 견고하게.</strong>
+</p>
+
+<p align="center">
+  <img src="assets/update-hero.png" alt="YouViCo의 미디어 리뷰와 드로잉, 피드백을 표현한 브랜드 이미지" width="880">
 </p>
 
 <p align="center">
@@ -24,10 +28,6 @@
   <a href="https://app.youvico.com">웹에서 시작하기</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases">Release Note</a>
-</p>
-
-<p align="center">
-  <img src="assets/update-hero.png" alt="YouViCo의 미디어 리뷰와 드로잉, 피드백을 표현한 브랜드 이미지" width="880">
 </p>
 
 <table align="center">
