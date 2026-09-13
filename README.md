@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
+  <strong>기획부터 창작까지 AI로 간결하게, 완성은 협업으로 견고하게.</strong>
+</p>
+
+<p align="center">
   <a href="README.md"><strong>한국어</strong></a>
   &nbsp; · &nbsp;
   <a href="README.en.md">English</a>
   &nbsp; · &nbsp;
   <a href="README.ja.md">日本語</a>
-</p>
-
-<p align="center">
-  <strong>기획부터 창작까지 AI로 간결하게, 완성은 협업으로 견고하게.</strong>
 </p>
 
 <p align="center">
