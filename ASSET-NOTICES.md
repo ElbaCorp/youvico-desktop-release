@@ -11,5 +11,12 @@ YouViCo 로고와 대표 이미지는 YouViCo의 브랜드 자산입니다.
 - `assets/projects.svg`
 - `assets/model3d.svg`
 - `assets/download.svg`
+- `assets/download-linux-deb.svg`
+- `assets/download-linux-rpm.svg`
+- `assets/download-mac-apple-silicon-en.svg`
+- `assets/download-mac-apple-silicon-ja.svg`
+- `assets/download-mac-apple-silicon-ko.svg`
+- `assets/download-mac-intel.svg`
+- `assets/download-windows.svg`
 
 이 아이콘들에는 [Tabler Icons의 MIT 라이선스](assets/LICENSE-Tabler.txt)가 적용됩니다. 이 라이선스는 YouViCo 애플리케이션이나 브랜드 자산 전체에 적용되는 라이선스가 아닙니다.

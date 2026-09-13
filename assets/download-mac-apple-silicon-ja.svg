@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="56">
+  <style>
+    text { fill: #1f2328; font-family: system-ui, -apple-system, Segoe UI, sans-serif; font-size: 14px; font-weight: 400; }
+    .border { fill: none; stroke: #d1d9e0; }
+    .frame { width: calc(100% - 1px); }
+    .compact { display: none; }
+    .detail { font-size: 12px; }
+    @media (max-width: 360px) { .inline { display: none; } .compact { display: inline; } }
+    @media (prefers-color-scheme: dark) { text { fill: #f0f6fc; } .border { stroke: #3d444d; } }
+  </style>
+  <rect class="border frame" x="0.5" y="-16" height="88" rx="12" />
+  <text class="inline" x="24" y="34">macOS · Apple Silicon (Mシリーズ)</text>
+  <text class="compact"><tspan x="24" y="24">macOS</tspan><tspan class="detail" x="24" y="42">Apple Silicon (Mシリーズ)</tspan></text>
+  <svg x="100%" y="16" width="24" height="24" overflow="visible">
+    <g transform="translate(-40 0)" fill="#2f81f7">
+      <path d="M20 16a1 1 0 0 1 1 1v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3v-2a1 1 0 0 1 2 0v2a1 1 0 0 0 1 1h12a1 1 0 0 0 1 -1v-2a1 1 0 0 1 1 -1m-8 -13a1 1 0 0 1 1 1v9.585l3.293 -3.292a1 1 0 0 1 1.414 1.414l-5 5a1 1 0 0 1 -.09 .08l.09 -.08a1 1 0 0 1 -.674 .292l-.033 .001h-.032l-.054 -.004l.086 .004a1 1 0 0 1 -.617 -.213a1 1 0 0 1 -.09 -.08l-5 -5a1 1 0 0 1 1.414 -1.414l3.293 3.292v-9.585a1 1 0 0 1 1 -1" />
+    </g>
+  </svg>
+  <line class="border" x1="0" y1="55.5" x2="100%" y2="55.5" />
+</svg>

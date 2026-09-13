@@ -16,37 +16,19 @@
   <a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest"><img align="left" src="assets/nav-download-ja.svg" alt="最新版をダウンロード ↗" width="179" height="24"></a>
   <a href="https://app.youvico.com"><img align="left" src="assets/nav-web-ja.svg" alt="Webで始める" width="91" height="24"></a>
   <a href="README.md"><img src="assets/nav-language-ko.svg" alt="한국어" width="42" height="24"></a>
-  &nbsp; · &nbsp;
+  &nbsp;&nbsp;
   <a href="README.en.md"><img src="assets/nav-language-en.svg" alt="English" width="48" height="24"></a>
-  &nbsp; · &nbsp;
+  &nbsp;&nbsp;
   <a href="README.ja.md"><img src="assets/nav-language-ja-active.svg" alt="日本語" width="42" height="24"></a>
 </div>
 
 <br clear="all">
 
-<table width="100%">
-  <tr>
-    <th width="9999" align="left">OS</th>
-    <th width="160" nowrap>ダウンロード</th>
-  </tr>
-  <tr>
-    <td>Windows · Intel / AMD · x64</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-win32-x64-Setup.exe" title="ダウンロード"><img src="assets/download.svg" alt="ダウンロード" width="24" height="24"></a></td>
-  </tr>
-  <tr>
-    <td>macOS · Apple Silicon (Mシリーズ)</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-mac-Apple-Silicon-arm64.dmg" title="ダウンロード"><img src="assets/download.svg" alt="ダウンロード" width="24" height="24"></a></td>
-  </tr>
-  <tr>
-    <td>macOS · Intel</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-mac-Intel-x64.dmg" title="ダウンロード"><img src="assets/download.svg" alt="ダウンロード" width="24" height="24"></a></td>
-  </tr>
-  <tr>
-    <td>Linux · Debian / Ubuntu · x64</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.deb" title="ダウンロード"><img src="assets/download.svg" alt="ダウンロード" width="24" height="24"></a></td>
-  </tr>
-  <tr>
-    <td>Linux · Fedora / RHEL · x64</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.rpm" title="ダウンロード"><img src="assets/download.svg" alt="ダウンロード" width="24" height="24"></a></td>
-  </tr>
-</table>
+<div>
+  <div><picture><img src="assets/download-header-ja.svg" alt="OS · ダウンロード" width="100%" height="48" align="top"></picture></div>
+  <div><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-win32-x64-Setup.exe" title="ダウンロード"><img src="assets/download-windows.svg" alt="Windows · Intel / AMD · x64 — ダウンロード" width="100%" height="56" align="top"></a></div>
+  <div><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-mac-Apple-Silicon-arm64.dmg" title="ダウンロード"><img src="assets/download-mac-apple-silicon-ja.svg" alt="macOS · Apple Silicon (Mシリーズ) — ダウンロード" width="100%" height="56" align="top"></a></div>
+  <div><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-mac-Intel-x64.dmg" title="ダウンロード"><img src="assets/download-mac-intel.svg" alt="macOS · Intel — ダウンロード" width="100%" height="56" align="top"></a></div>
+  <div><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.deb" title="ダウンロード"><img src="assets/download-linux-deb.svg" alt="Linux · Debian / Ubuntu · x64 — ダウンロード" width="100%" height="56" align="top"></a></div>
+  <div><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.rpm" title="ダウンロード"><img src="assets/download-linux-rpm.svg" alt="Linux · Fedora / RHEL · x64 — ダウンロード" width="100%" height="56" align="top"></a></div>
+</div>
