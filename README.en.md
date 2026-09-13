@@ -31,22 +31,22 @@
   </tr>
   <tr>
     <td>Windows · Intel / AMD · x64</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-win32-x64-Setup.exe" title="Download">⬇</a></td>
+    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-win32-x64-Setup.exe" title="Download"><img src="assets/download.svg" alt="Download" width="24" height="24"></a></td>
   </tr>
   <tr>
     <td>macOS · Apple Silicon (M series)</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-mac-Apple-Silicon-arm64.dmg" title="Download">⬇</a></td>
+    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-mac-Apple-Silicon-arm64.dmg" title="Download"><img src="assets/download.svg" alt="Download" width="24" height="24"></a></td>
   </tr>
   <tr>
     <td>macOS · Intel</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-mac-Intel-x64.dmg" title="Download">⬇</a></td>
+    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-mac-Intel-x64.dmg" title="Download"><img src="assets/download.svg" alt="Download" width="24" height="24"></a></td>
   </tr>
   <tr>
     <td>Linux · Debian / Ubuntu · x64</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.deb" title="Download">⬇</a></td>
+    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.deb" title="Download"><img src="assets/download.svg" alt="Download" width="24" height="24"></a></td>
   </tr>
   <tr>
     <td>Linux · Fedora / RHEL · x64</td>
-    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.rpm" title="Download">⬇</a></td>
+    <td align="center"><a href="https://github.com/ElbaCorp/youvico-desktop-release/releases/latest/download/YouViCo-linux-x64.rpm" title="Download"><img src="assets/download.svg" alt="Download" width="24" height="24"></a></td>
   </tr>
 </table>
